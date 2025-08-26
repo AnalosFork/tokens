@@ -14,12 +14,12 @@ The **Analos Tokens** repository serves as the central hub for metadata and reso
 Below are examples of tokens within the Analos ecosystem, including their metadata and links to the Analos Explorer:
 
 1. **YUGE**
-   - **Contract Address**: `A5JwhVPS4fB1y8mV5gAwAhQST9bA2SnS4CpGcTVpgtTL`
-   - **Explorer Link**: [https://explorer.analos.io/address/A5JwhVPS4fB1y8mV5gAwAhQST9bA2SnS4CpGcTVpgtTL](https://explorer.analos.io/address/A5JwhVPS4fB1y8mV5gAwAhQST9bA2SnS4CpGcTVpgtTL)
+   - **Contract Address**: `4cPpyzFhpDXsExDkdtEpx9BEBRkJFpVkEPS4bQrTTucR`
+   - **Explorer Link**: [https://explorer.analos.io/address/4cPpyzFhpDXsExDkdtEpx9BEBRkJFpVkEPS4bQrTTucR](https://explorer.analos.io/address/4cPpyzFhpDXsExDkdtEpx9BEBRkJFpVkEPS4bQrTTucR)
 
 2. **SZN**
-   - **Contract Address**: `SLR9876543210fedcba9876543210fedcba9876543210`
-   - **Explorer Link**: [https://explorer.analos.io/token/SLR9876543210fedcba9876543210fedcba9876543210](https://explorer.analos.io/token/SLR9876543210fedcba9876543210fedcba9876543210)
+   - **Contract Address**: `A5JwhVPS4fB1y8mV5gAwAhQST9bA2SnS4CpGcTVpgtTL`
+   - **Explorer Link**: [https://explorer.analos.io/address/A5JwhVPS4fB1y8mV5gAwAhQST9bA2SnS4CpGcTVpgtTL](https://explorer.analos.io/address/A5JwhVPS4fB1y8mV5gAwAhQST9bA2SnS4CpGcTVpgtTL)
 
 3. **BULL**
    - **Contract Address**: `E3ThbcycsAjxMUBw1AJ2JJdYeMHNSxkrJyAwB3ZAwqi7`
